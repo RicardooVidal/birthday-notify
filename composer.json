@@ -1,0 +1,17 @@
+{
+    "name": "rvidal/birthday-notify",
+    "description": "Core notifier for birthday project",
+    "authors": [
+        {
+            "name": "Ricardo Vidal",
+            "email": "ricardoorv95@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^3.1",
+        "nesbot/carbon": "^2.48"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
