@@ -8,10 +8,10 @@ use Carbon\Carbon;
 require_once 'vendor/autoload.php';
 
 $connectionParams = array(
-    'dbname' => 'rica2912_birthday',
-    'user' => 'rica2912_birthda',
-    'password' => 'Arr0zc0nfeitaD0',
-    'host' => '192.185.176.182',
+    'dbname' => '',
+    'user' => '',
+    'password' => '',
+    'host' => '',
     'driver' => 'pdo_mysql',
 );
 
